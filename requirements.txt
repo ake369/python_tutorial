@@ -6,3 +6,5 @@ seaborn
 
 sqlalchemy
 mysql-connector-python
+tensorFlow 
+PyTorch
