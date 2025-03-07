@@ -7,7 +7,6 @@ new_data.xlsx
 # C extensions
 *.so
 empa_users.csv
-
 # Distribution / packaging
 .Python
 build/
